@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "proxyplayer-client",
+  "version": "${version}",
+  "name": "ProxyPlayer Client",
+  "description": "Singleplayer Proxied",
+  "authors": ["IzzyDotExe"],
+  "contact": {
+    "homepage": "https://blutopia.ca",
+    "sources": "https://github.com/IzzyDotExe/ProxyPlayer",
+    "email": "IzzyDotExe@gmail.com",
+    "issues": "https://github.com/IzzyDotExe/ProxyPlayer/Issues"
+  },
+  "license": "MIT",
+  "icon": "assets/proxyplayer/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "ca.blutopia.proxyplayer.client.ProxyPlayerClient"
+    ]
+  },
+  "mixins": [
+
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}

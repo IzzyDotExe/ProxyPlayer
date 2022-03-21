@@ -1,0 +1,4 @@
+ProxyPlayer-Client/build
+ProxyPlayer-Server/build
+.gradle
+.idea
