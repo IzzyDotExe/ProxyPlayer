@@ -6,7 +6,7 @@ import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftGameMode;
 import ca.blutopia.proxyplayer.server.ProxyPlayerServer;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import com.google.gson.stream.JsonReader;
+
 import net.querz.nbt.io.NBTUtil;
 import net.querz.nbt.io.NamedTag;
 import net.querz.nbt.tag.StringTag;
@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.io.File;
 import java.io.IOException;
-import java.io.StringReader;
+
 import java.util.ArrayList;
 
 @RestController

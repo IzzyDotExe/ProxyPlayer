@@ -2,9 +2,6 @@ package ca.blutopia.proxyplayer.minecraft.model;
 
 import java.nio.file.Path;
 
-import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftDifficulty;
-import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftGameMode;
-
 public class MinecraftServerInstance {
 
     private String enablejmxmonitoring;

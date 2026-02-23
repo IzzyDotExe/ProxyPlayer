@@ -38,7 +38,7 @@ public class ConfigHandler {
     }
 
     public void dumpConfig() throws IllegalArgumentException, IllegalAccessException, IOException {
-        dumpConfig(this.config, this.configPath);
+        dumpConfig(this.config, ConfigHandler.configPath);
     }
 
     public void dumpConfig(ServerConfig config, Path configPath) throws IllegalArgumentException, IllegalAccessException, IOException {
