@@ -1,4 +1,4 @@
-package ca.blutopia.proxyplayer.minecraft.enums;
+package ca.blutopia.proxyplayer.minecraft.model.enums;
 
 public enum MinecraftDifficulty {
 

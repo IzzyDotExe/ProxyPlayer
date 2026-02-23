@@ -1,6 +1,6 @@
 package ca.blutopia.proxyplayer.server.service;
 
-import ca.blutopia.proxyplayer.minecraft.MinecraftServerInstance;
+import ca.blutopia.proxyplayer.minecraft.model.MinecraftServerInstance;
 import ca.blutopia.proxyplayer.server.ProxyPlayerServer;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

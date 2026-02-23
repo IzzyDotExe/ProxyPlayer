@@ -1,8 +1,8 @@
 package ca.blutopia.proxyplayer.server.service;
 
-import ca.blutopia.proxyplayer.minecraft.MinecraftWorld;
-import ca.blutopia.proxyplayer.minecraft.enums.MinecraftDifficulty;
-import ca.blutopia.proxyplayer.minecraft.enums.MinecraftGameMode;
+import ca.blutopia.proxyplayer.minecraft.model.MinecraftWorld;
+import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftDifficulty;
+import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftGameMode;
 import ca.blutopia.proxyplayer.server.ProxyPlayerServer;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;

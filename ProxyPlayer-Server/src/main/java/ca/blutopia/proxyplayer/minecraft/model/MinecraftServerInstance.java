@@ -1,9 +1,9 @@
-package ca.blutopia.proxyplayer.minecraft;
-
-import ca.blutopia.proxyplayer.minecraft.enums.MinecraftDifficulty;
-import ca.blutopia.proxyplayer.minecraft.enums.MinecraftGameMode;
+package ca.blutopia.proxyplayer.minecraft.model;
 
 import java.nio.file.Path;
+
+import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftDifficulty;
+import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftGameMode;
 
 public class MinecraftServerInstance {
 

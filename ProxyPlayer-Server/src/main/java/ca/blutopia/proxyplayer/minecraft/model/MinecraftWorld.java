@@ -1,7 +1,7 @@
-package ca.blutopia.proxyplayer.minecraft;
+package ca.blutopia.proxyplayer.minecraft.model;
 
-import ca.blutopia.proxyplayer.minecraft.enums.MinecraftDifficulty;
-import ca.blutopia.proxyplayer.minecraft.enums.MinecraftGameMode;
+import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftDifficulty;
+import ca.blutopia.proxyplayer.minecraft.model.enums.MinecraftGameMode;
 
 public class MinecraftWorld {
 
